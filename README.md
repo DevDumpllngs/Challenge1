@@ -28,7 +28,7 @@ Las reglas de encriptación son las siguientes:
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd encriptador-texto
+    cd Challenge1
     ```
 
 3. Abre el archivo `index.html` en tu navegador para usar la aplicación.
