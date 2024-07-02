@@ -40,19 +40,6 @@ Las reglas de encriptación son las siguientes:
 3. Haz clic en el botón "Desencriptar" para desencriptar el texto.
 4. Usa el botón "Copiar" para copiar el texto encriptado/desencriptado al portapapeles.
 
-## Estructura del Proyecto
-
-Challenge1/
-├── img/
-│ ├── bi_exclamation-circle-fill.png
-│ ├── logo.png
-│ ├── muñeco.png
-│ ├── encontrado.png
-├── index.html
-├── style.css
-└── script.js
-
-
 ## Créditos
 
 Este proyecto fue desarrollado como parte de un desafío de un curso de Oracle.
