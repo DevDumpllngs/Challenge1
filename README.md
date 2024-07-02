@@ -2,7 +2,7 @@
 
 Este proyecto es parte de un desafío de un curso de Oracle. La aplicación web permite encriptar y desencriptar mensajes de texto utilizando un conjunto específico de reglas de sustitución de caracteres. 
 
-## Descripción
+## Descripción 
 
 Las reglas de encriptación son las siguientes:
 
